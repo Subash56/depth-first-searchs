@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: Roopak C S</h3>
-<h3>Register Number: 212223220088 </h3>
+<h3>Name: SUBASH B</h3>
+<h3>Register Number: 212224220108 </h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
